@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['keyb_5ffixture_3',['KeyB_fixture',['../structKeyB__fixture.html',1,'']]]
+  ['modalphacipher_3',['modAlphaCipher',['../classmodAlphaCipher.html',1,'modAlphaCipher'],['../classmodAlphaCipher.html#a76a420025b3c08f72c9b996d83c6ff09',1,'modAlphaCipher::modAlphaCipher()']]]
 ];

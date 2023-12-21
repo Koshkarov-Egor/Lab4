@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.21)  21 DEC 2023 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.21)  21 DEC 2023 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,24 +1070,7 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 160.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 160.
 
 Package hyperref Info: Option `unicode' set `true' on input line 160.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 165
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 165
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 16
-5.
-
-(/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
-File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
-) [1
+ [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
@@ -1101,7 +1084,23 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 LaTeX Font Warning: Font shape `T2A/phv/b/n' undefined
 (Font)              using `T2A/phv/m/n' instead on input line 173.
 
-[1] [2
+LaTeX Font Info:    Trying to load font information for U+msa on input line 173
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 173
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 17
+3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+) [1] [2
 
 ]
 Package hyperref Info: Option `pageanchor' set `true' on input line 175.
@@ -1129,7 +1128,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 pdfTeX warning: pdflatex (file ./classcipher__error__inherit__graph.pdf): PDF i
 nclusion: multiple pdfs with page group included in a single page
 >
-<classcipher__error__inherit__graph.pdf, id=123, 203.76125pt x 156.585pt>
+<classcipher__error__inherit__graph.pdf, id=114, 203.76125pt x 156.585pt>
 File: classcipher__error__inherit__graph.pdf Graphic file (type pdf)
 <use classcipher__error__inherit__graph.pdf>
 Package pdftex.def Info: classcipher__error__inherit__graph.pdf  used on input 
@@ -1140,7 +1139,7 @@ line 10.
 pdfTeX warning: pdflatex (file ./classcipher__error__coll__graph.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >
-<classcipher__error__coll__graph.pdf, id=131, 203.76125pt x 156.585pt>
+<classcipher__error__coll__graph.pdf, id=122, 203.76125pt x 156.585pt>
 File: classcipher__error__coll__graph.pdf Graphic file (type pdf)
 <use classcipher__error__coll__graph.pdf>
 Package pdftex.def Info: classcipher__error__coll__graph.pdf  used on input lin
@@ -1154,14 +1153,6 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 26.
  [5])
-(./structKeyB__fixture.tex <./structKeyB__fixture__coll__graph.pdf>
-<structKeyB__fixture__coll__graph.pdf, id=146, 178.6675pt x 167.62625pt>
-File: structKeyB__fixture__coll__graph.pdf Graphic file (type pdf)
-<use structKeyB__fixture__coll__graph.pdf>
-Package pdftex.def Info: structKeyB__fixture__coll__graph.pdf  used on input li
-ne 10.
-(pdftex.def)             Requested size: 178.0pt x 167.0094pt.
-)
 (./classmodAlphaCipher.tex
 
 LaTeX Font Warning: Font shape `T2A/phv/m/it' undefined
@@ -1178,12 +1169,12 @@ LaTeX Font Warning: Font shape `T2A/pcr/m/n' undefined
 LaTeX Font Warning: Font shape `T2A/pcr/m/it' undefined
 (Font)              using `T2A/pcr/m/n' instead on input line 19.
 
-[6]
+[6] [7]
 Underfull \hbox (badness 10000) detected at line 48
 [][][]
  []
 
-[7]
+
 Underfull \hbox (badness 10000) detected at line 66
 [][][]
  []
@@ -1198,13 +1189,13 @@ Underfull \hbox (badness 10000) detected at line 66
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `refman.out' has not changed.
-(rerunfilecheck)             Checksum: AF0E79BB77FCDB09DAD0D6048357D643;2684.
+(rerunfilecheck)             Checksum: E0557902A5432F93C1C5C72CD2D8C57C;2463.
  ) 
 Here is how much of TeX's memory you used:
- 18973 strings out of 479721
- 301160 string characters out of 5887696
- 616741 words of memory out of 5000000
- 36552 multiletter control sequences out of 15000+600000
+ 18952 strings out of 479721
+ 300474 string characters out of 5887696
+ 617621 words of memory out of 5000000
+ 36538 multiletter control sequences out of 15000+600000
  483753 words of font info for 53 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  99i,15n,117p,716b,707s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1219,10 +1210,10 @@ k> </home/egor22ptv2/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.
 200.600pk> </home/egor22ptv2/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/l
 arm1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on refman.pdf (13 pages, 126811 bytes).
+Output written on refman.pdf (13 pages, 113610 bytes).
 PDF statistics:
- 529 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 486 PDF objects out of 1000 (max. 8388607)
+ 199 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
